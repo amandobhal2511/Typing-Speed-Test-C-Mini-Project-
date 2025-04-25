@@ -13,7 +13,7 @@ A super simple **Typing Speed Test** project made using basic C++ — perfect fo
 3. Type the given sentence and see your typing speed!
 
 ## 🎥 Video Demo
-Watch here 👉 [YouTube Link]([https://youtube.com/yourvideoURL](https://youtu.be/-V-a1nXFG48))
+watch here on yt --> https://youtu.be/-V-a1nXFG48
 
 ## 📁 File Info
 - `main.cpp` – contains the full code
